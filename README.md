@@ -1,9 +1,14 @@
 # customer-churn-analysis
-Customer churn directly impacts revenue and business sustainability. This project analyzes customer behavior to identify churn patterns, revenue loss drivers, and actionable retention strategies using Python analytics.
+This project analyzes telecom customer churn data to identify patterns and factors influencing customer attrition. The analysis includes exploratory data analysis, data cleaning, and deriving business insights to help companies improve customer retention.
 
 # Project Overview
-Customer churn is a critical metric for subscription-based businesses. This project analyzes customer data to understand factors that influence customer churn using Python.
-The goal is to perform data cleaning, exploratory data analysis, and derive insights that can help businesses improve customer retention.
+The main objective of this project is to:
+
+Understand customer churn behavior
+
+Identify key factors that influence churn
+
+Perform data cleaning and exploratory data analysis using Python
 ________________________________________
 # Tools & Technologies
 •	Python
@@ -31,7 +36,7 @@ ________________________________________
 5.	Exploratory Data Analysis
 6.	Identifying Churn Drivers
 ________________________________________
-Key Insights
+# Key Insights
 •	Customers with month-to-month contracts show higher churn rates
 •	Short tenure customers are more likely to leave
 •	Payment method plays an important role in churn behavior
