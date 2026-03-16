@@ -43,11 +43,11 @@ Key Insights
 customer-churn-analysis-python
 │
 ├── data
-│   ├── customer_churn_messy.csv
-│   └── customer_churn_clean.csv
+│   ├── cleaned_customer_churn_dataset.csv
+│   └── customer_churn_messy_dataset.csv
 │
 ├── notebooks
-│   ├── churn_exploratory_data_analysis.ipynb
+│   ├── Churn_exploratory_data_analysis.ipynb
 │   └── customer_churn_data_cleaning.ipynb
 │
 ├── reports
