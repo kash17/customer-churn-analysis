@@ -9,6 +9,11 @@ Understand customer churn behavior
 Identify key factors that influence churn
 
 Perform data cleaning and exploratory data analysis using Python
+
+# Project Summary
+This project performs exploratory data analysis on a telecom customer dataset to identify factors influencing customer churn.
+The workflow includes data cleaning, handling messy data, feature creation, and analyzing churn patterns using Python.
+The goal is to derive insights that can help businesses improve customer retention strategies.
 ________________________________________
 # Tools & Technologies
 •	Python
