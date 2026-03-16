@@ -37,22 +37,25 @@ Key Insights
 •	Payment method plays an important role in churn behavior
 •	Higher monthly charges can contribute to churn
 
-# Repository Structure
+## Repository Structure
+
+```
 customer-churn-analysis-python
 │
 ├── data
-│ ├── customer_churn_messy.csv
-│ └── customer_churn_clean.csv
+│   ├── customer_churn_messy.csv
+│   └── customer_churn_clean.csv
 │
 ├── notebooks
-│ ├── churn_exploratory_data_analysis.ipynb
-│ └── customer_churn_data_cleaning.ipynb
+│   ├── churn_exploratory_data_analysis.ipynb
+│   └── customer_churn_data_cleaning.ipynb
 │
 ├── reports
-│ └── churn_analysis_report.pdf
+│   └── churn_analysis_report.pdf
 │
 ├── README.md
 └── requirements.txt
+```
 
 
 # How to Run the Project
